@@ -185,7 +185,7 @@ brigade
 british
 broken
 bronze
-brother
+#brother
 brown
 #bruce
 bruno
@@ -1236,7 +1236,7 @@ reptile
 reserve
 respect
 respond
-result
+#result
 resume
 retro
 reunion
@@ -1482,7 +1482,7 @@ thermos
 think
 thomas
 tibet
-ticket
+#ticket
 tictac
 tiger
 time
