@@ -537,7 +537,7 @@ flag
 #flame
 flash
 flex
-flipper
+#flipper
 float
 flood
 floor
@@ -1178,7 +1178,7 @@ program
 project
 promise
 promo
-protect
+#protect
 protein
 proton
 #provide
